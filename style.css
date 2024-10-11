@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    margin: 10px 15px;
+    padding: 20px;
+    border: 15px black dashed ;
+}
